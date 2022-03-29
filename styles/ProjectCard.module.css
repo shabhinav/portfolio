@@ -60,3 +60,8 @@
 .underline:hover {
   background-size: 100% 88%;
 }
+
+.card_image {
+
+  object-fit: contain;
+}

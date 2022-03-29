@@ -1,37 +1,102 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "name": "Top Parent",
+    "image": "https://i.ibb.co/ZSdM1ck/toparent.png",
+    "description": "With the Top Parent App, parents learn new ways of raising, nurturing, life skills and studying for their 3-8 year olds. Top Parent Learning Enables Parents with Teaching Videos, Quizzes, and Kids Learning EdTech Apps - Absolutely Free!",
+    "role": "I gave the revamp to this App single-handedly",
+    "tags": [
+      "react",
+      "apollo-graphql",
+      "firebase",
+      "styled-components",
+      "bootstrap"
+    ],
+    "demo": "https://play.google.com/store/apps/details?id=com.csf.topparent&hl=en_IN&gl=US"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "name": "Top Parent Dashboard",
+    "image": "https://i.ibb.co/ZSdM1ck/toparent.png",
+    "description": "With the Top Parent App, parents learn new ways of raising, nurturing, life skills and studying for their 3-8 year olds. Top Parent Learning Enables Parents with Teaching Videos, Quizzes, and Kids Learning EdTech Apps - Absolutely Free!",
+    "role": "Worked as a substitute developer and developed few features and fixed bugs",
+    "tags": [
+      "react",
+      "apollo-graphql",
+      "antd",
+      "styled-components",
+      "bootstrap",
+      "firebase",
+      "auth0",
+      "axios"
+    ]
   },
   {
     "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
+    "name": "Quoality User-Front",
+    "image": "https://i.ibb.co/ZJrwYdY/quoality.png",
+    "description": "E-commerce platform for ordering auxiliary service in a hostel",
+    "tags": [
+      "react",
+      "firebase",
+      "redux",
+      "razorpay",
+      "material-ui",
+      "rest-api",
+      "axios",
+      "sass",
+      "styled-components"
+    ],
+    "role": "Developed the first prototype of their platform",
+    "demo": "https://www.hotel.quoality.com/delhi/hosteller"
   },
   {
     "id": 4,
-    "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "name": "Quoality Website",
+    "image": "https://i.ibb.co/ZJrwYdY/quoality.png",
+    "description": "E-commerce platform for ordering auxiliary service in a hostel and CMS is on strapi",
+    "tags": ["next", "tailwind", "material-ui", "strapi", "sass", "rest-api"],
+    "role": "Developed the whole website single-handedly",
+    "demo": "https://quoality.com"
+  },
+  {
+    "id": 5,
+    "name": "E-Vaccine-App",
+    "image": "https://i.ibb.co/G2Q0C1q/jj-Vaccine-guillame-Br-1285072572-770x533-1.jpg",
+    "description": "Developed E-Vaccine tracker like Aarogya Setu",
+    "role": "Developed the whole user facing app from scratch to production ready",
+    "tags": ["react", "ionic-react", "firebase", "redux", "rest-api"]
+  },
+  {
+    "id": 6,
+    "name": "TheHosteller",
+    "image": "https://i.ibb.co/YpfCQss/hostel.png",
+    "description": "The Hosteller, a chain of backpacker hostels with 18+ hostels across India currently, is the perfect pit-stop for global as well as local travellers to relax, rejuvenate and experience India’s rich heritage while not worrying about a clean, safe and smart place to stay.",
+    "role": "Developed the whole website from scratch to production ready",
+    "tags": [
+      "react",
+      "redux",
+      "tailwind",
+      "apollo-graphql",
+      "razorpay",
+      "material-ui",
+      "sass"
+    ],
+    "demo": "https://www.thehosteller.com/"
+  },
+  {
+    "id": 7,
+    "name": "TheHosteller-Dashboard",
+    "image": "https://i.ibb.co/YpfCQss/hostel.png",
+    "description": "The Hosteller, a chain of backpacker hostels with 18+ hostels across India currently, is the perfect pit-stop for global as well as local travellers to relax, rejuvenate and experience India’s rich heritage while not worrying about a clean, safe and smart place to stay.",
+    "role": "Developing their CMS and Admin Panel",
+    "tags": [
+      "react",
+      "redux",
+      "react-bootstrap",
+      "apollo-graphql",
+      "veuxy",
+      "sass"
+    ]
   }
 ]

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap");
 
 *,
 *::before,
@@ -8,18 +8,29 @@
   box-sizing: border-box;
 }
 
+.bold {
+  font-weight: bold;
+}
+.font-base {
+  font-size: 16px;
+}
+
 /* Tags */
-.react {
+.react,
+.ionic-react {
   border: 0.1rem solid rgb(97, 218, 251);
 }
-.react:hover {
+.react:hover,
+.ionic-react:hover {
   background: rgba(97, 218, 251, 0.25);
 }
 
-.node {
+.node,
+.rest-api {
   border: 0.1rem solid rgb(131, 205, 41);
 }
-.node:hover {
+.node:hover,
+.rest-api:hover {
   background: rgba(131, 205, 41, 0.25);
 }
 
@@ -37,10 +48,12 @@
   background: rgba(118, 74, 188, 0.25);
 }
 
-.razorpay {
+.razorpay,
+.veuxy {
   border: 0.1rem solid rgb(82, 143, 240);
 }
-.razorpay:hover {
+.razorpay:hover,
+.veuxy:hover {
   background: rgba(82, 143, 240, 0.25);
 }
 
@@ -84,4 +97,64 @@
 }
 .css-modules:hover {
   background: rgba(21, 114, 182, 0.25);
+}
+
+.apollo-graphql {
+  border: 2px solid rgb(227, 87, 150);
+}
+
+.apollo-graphql:hover {
+  background: rgba(227, 87, 150, 0.25);
+}
+
+.firebase {
+  border: 2px solid rgb(247, 201, 37);
+}
+
+.firebase:hover {
+  background: rgba(247, 201, 37, 0.25);
+}
+
+.styled-components,
+.sass {
+  border: 2px solid rgb(219, 112, 147);
+}
+
+.styled-components:hover,
+.sass:hover {
+  background: rgba(219, 112, 147, 0.25);
+}
+
+.bootstrap {
+  border: 2px solid rgb(121, 82, 179);
+}
+
+.bootstrap:hover {
+  background: rgba(121, 82, 179, 0.25);
+}
+
+.antd,
+.react-bootstrap {
+  border: 2px solid rgb(54, 141, 254);
+}
+
+.antd:hover,
+.react-bootstrap:hover {
+  background: rgba(54, 141, 254, 0.25);
+}
+
+.auth0 {
+  border: 2px solid rgb(238, 93, 74);
+}
+
+.auth0:hover {
+  background: rgba(238, 93, 74, 0.25);
+}
+
+.axios {
+  border: 2px solid rgb(107, 77, 223);
+}
+
+.axios:hover {
+  background: rgba(107, 77, 223, 0.25);
 }
