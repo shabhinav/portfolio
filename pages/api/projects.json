@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Top Parent",
-    "image": "https://i.ibb.co/ZSdM1ck/toparent.png",
+    "image": "https://i.ibb.co/fv8dfzv/Topparent.png",
     "description": "With the Top Parent App, parents learn new ways of raising, nurturing, life skills and studying for their 3-8 year olds. Top Parent Learning Enables Parents with Teaching Videos, Quizzes, and Kids Learning EdTech Apps - Absolutely Free!",
     "role": "I gave the revamp to this App single-handedly",
     "tags": [
@@ -17,7 +17,7 @@
   {
     "id": 2,
     "name": "Top Parent Dashboard",
-    "image": "https://i.ibb.co/ZSdM1ck/toparent.png",
+    "image": "https://i.ibb.co/fv8dfzv/Topparent.png",
     "description": "With the Top Parent App, parents learn new ways of raising, nurturing, life skills and studying for their 3-8 year olds. Top Parent Learning Enables Parents with Teaching Videos, Quizzes, and Kids Learning EdTech Apps - Absolutely Free!",
     "role": "Worked as a substitute developer and developed few features and fixed bugs",
     "tags": [
@@ -34,7 +34,7 @@
   {
     "id": 3,
     "name": "Quoality User-Front",
-    "image": "https://i.ibb.co/ZJrwYdY/quoality.png",
+    "image": "https://i.ibb.co/T23V2mB/Quoality.jpg",
     "description": "E-commerce platform for ordering auxiliary service in a hostel",
     "tags": [
       "react",
@@ -53,7 +53,7 @@
   {
     "id": 4,
     "name": "Quoality Website",
-    "image": "https://i.ibb.co/ZJrwYdY/quoality.png",
+    "image": "https://i.ibb.co/T23V2mB/Quoality.jpg",
     "description": "E-commerce platform for ordering auxiliary service in a hostel and CMS is on strapi",
     "tags": ["next", "tailwind", "material-ui", "strapi", "sass", "rest-api"],
     "role": "Developed the whole website single-handedly",
@@ -70,7 +70,7 @@
   {
     "id": 6,
     "name": "TheHosteller",
-    "image": "https://i.ibb.co/YpfCQss/hostel.png",
+    "image": "https://i.ibb.co/2yQSk5B/hosteller.png",
     "description": "The Hosteller, a chain of backpacker hostels with 18+ hostels across India currently, is the perfect pit-stop for global as well as local travellers to relax, rejuvenate and experience India’s rich heritage while not worrying about a clean, safe and smart place to stay.",
     "role": "Developed the whole website from scratch to production ready",
     "tags": [
@@ -87,7 +87,7 @@
   {
     "id": 7,
     "name": "TheHosteller-Dashboard",
-    "image": "https://i.ibb.co/YpfCQss/hostel.png",
+    "image": "https://i.ibb.co/2yQSk5B/hosteller.png",
     "description": "The Hosteller, a chain of backpacker hostels with 18+ hostels across India currently, is the perfect pit-stop for global as well as local travellers to relax, rejuvenate and experience India’s rich heritage while not worrying about a clean, safe and smart place to stay.",
     "role": "Developing their CMS and Admin Panel",
     "tags": [

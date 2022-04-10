@@ -33,8 +33,15 @@
   border-left: 1px solid #1e1f29;
 }
 
+.content_container{
+  width: 100%;
+}
+
 @media screen and (max-width: 600px) {
   .content {
     padding: 2rem 1rem;
+  }
+  .content_container{
+    width: 90%;
   }
 }
