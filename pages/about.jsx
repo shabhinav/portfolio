@@ -5,20 +5,23 @@ const AboutPage = () => {
         Hi, my name is Abhinav. I am a Frontend Web developer and aspiring Full
         Stack developer and also Javascript enthusiast.
       </h3>
-
+      <br />
       <h3>My primary focus is on building Frontend web applications.</h3>
-    
+      <br />
+
       <h3>
         My skillsets include languages like JavaScript ,CSS3, HTML5, SCSS/SASS
         together with frameworks like React.js, Redux,
         Bootstrap,Next.js,Apollo-Graphql,Webpack,Firebase,Tailwind.
       </h3>
+      <br />
 
       <h3>
         I do this because I love the process of turning dreams into reality by
         converting ideas into code. I have a serious passion for designing
         top-grade UI's with working logic to create a dynamic user experience.
       </h3>
+      <br />
 
       <h3>
         I'm working as a lead Frontend Developer in Quoality and worked as a
