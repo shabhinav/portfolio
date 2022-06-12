@@ -81,7 +81,7 @@
       "styled-components"
     ],
     "role": "Developed the first prototype of their platform",
-    "demo": "https://www.hotel.quoality.com/delhi/hosteller"
+    "demo": "https://www.hotel-dev.quoality.com/delhi/the-hosteller-delhi"
   },
   {
     "id": 4,
@@ -100,7 +100,7 @@
     "description": "E-commerce platform for ordering auxiliary service in a hostel and CMS is on strapi",
     "tags": ["next", "tailwind", "material-ui", "strapi", "sass", "rest-api"],
     "role": "Developed the whole website single-handedly",
-    "demo": "https://quoality.com"
+    "demo": "https://www.quoality.com/"
   },
   {
     "id": 5,
