@@ -62,6 +62,6 @@
 }
 
 .card_image {
-
-  object-fit: contain;
+  /* object-fit: contain; */
+  height: 350px;
 }

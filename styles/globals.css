@@ -158,3 +158,11 @@
 .axios:hover {
   background: rgba(107, 77, 223, 0.25);
 }
+
+.slick-prev {
+  display: none !important;
+}
+
+.slick-next {
+  display: none !important;
+}

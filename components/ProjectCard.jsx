@@ -1,14 +1,27 @@
 import Image from "next/image";
 import styles from "../styles/ProjectCard.module.css";
+import Slider from "react-slick";
+
+const settings = {
+  dots: false,
+  infinite: true,
+  slidesToShow: 1,
+  slidesToScroll: 1,
+  showArrows: false,
+  autoplay: true,
+  speed: 2000,
+  autoplaySpeed: 5000,
+  cssEase: "linear",
+};
 
 const ProjectCard = ({ project }) => {
   return (
     <div className={styles.card}>
-      <img
-        className={styles.card_image}
-        src={project.image}
-        alt={project.name}
-      />
+      <Slider {...settings}>
+        {project?.image?.map((item) => (
+          <img className={styles.card_image} src={item} alt={item} />
+        ))}
+      </Slider>
       <div className={styles.content}>
         <h3>{project.name}</h3>
 

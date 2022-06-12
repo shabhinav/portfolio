@@ -2,7 +2,19 @@
   {
     "id": 1,
     "name": "Top Parent",
-    "image": "https://i.ibb.co/fv8dfzv/Topparent.png",
+    "image": [
+      "https://i.ibb.co/RY2rWxm/tpa1.png",
+      "https://i.ibb.co/tXP9vzt/tpa2.png",
+      "https://i.ibb.co/5Lzb6cJ/tpa3.png",
+      "https://i.ibb.co/h2Rb3vn/tpa4.png",
+      "https://i.ibb.co/X4zBMt1/tpa5.png",
+      "https://i.ibb.co/GTtDVGk/tpa6.png",
+      "https://i.ibb.co/7JsYT0t/tpa7.png",
+      "https://i.ibb.co/rZvw56T/tpa8.png",
+      "https://i.ibb.co/qjh4zdn/tpa9.png",
+      "https://i.ibb.co/Kx9mtQK/tpa10.png",
+      "https://i.ibb.co/kM761BS/tpa11.png"
+    ],
     "description": "With the Top Parent App, parents learn new ways of raising, nurturing, life skills and studying for their 3-8 year olds. Top Parent Learning Enables Parents with Teaching Videos, Quizzes, and Kids Learning EdTech Apps - Absolutely Free!",
     "role": "I gave the revamp to this App single-handedly",
     "tags": [
@@ -17,7 +29,23 @@
   {
     "id": 2,
     "name": "Top Parent Dashboard",
-    "image": "https://i.ibb.co/fv8dfzv/Topparent.png",
+    "image": [
+      "https://i.ibb.co/brYSw86/tpc1.png",
+      "https://i.ibb.co/pLGJrzC/tpc2.png",
+      "https://i.ibb.co/H7pgKDP/tpc3.png",
+      "https://i.ibb.co/M8Bq5b1/tpc4.png",
+      "https://i.ibb.co/XC1BgKp/tpc5.png",
+      "https://i.ibb.co/F4bzz1S/tpc6.png",
+      "https://i.ibb.co/YPpspLn/tpc7.png",
+      "https://i.ibb.co/djZLkC3/tpc8.png",
+      "https://i.ibb.co/vZPbjNG/tpc9.png",
+      "https://i.ibb.co/1sLLsLp/tpc10.png",
+      "https://i.ibb.co/VtXvXwP/tpc11.png",
+      "https://i.ibb.co/QmTGt9Y/tpc12.png",
+      "https://i.ibb.co/N37ypGm/tpc13.png",
+      "https://i.ibb.co/w6xbQCf/tpc14.png",
+      "https://i.ibb.co/xfRNKX6/tpc15.png"
+    ],
     "description": "With the Top Parent App, parents learn new ways of raising, nurturing, life skills and studying for their 3-8 year olds. Top Parent Learning Enables Parents with Teaching Videos, Quizzes, and Kids Learning EdTech Apps - Absolutely Free!",
     "role": "Worked as a substitute developer and developed few features and fixed bugs",
     "tags": [
@@ -34,7 +62,12 @@
   {
     "id": 3,
     "name": "Quoality User-Front",
-    "image": "https://i.ibb.co/T23V2mB/Quoality.jpg",
+    "image": [
+      "https://i.ibb.co/X4fm1pP/qua1.png",
+      "https://i.ibb.co/hYdbx0X/qua2.png",
+      "https://i.ibb.co/qmHj0mb/qua3.png",
+      "https://i.ibb.co/qmsVsBd/qua4.png"
+    ],
     "description": "E-commerce platform for ordering auxiliary service in a hostel",
     "tags": [
       "react",
@@ -48,21 +81,33 @@
       "styled-components"
     ],
     "role": "Developed the first prototype of their platform",
-    "demo": "https://www.hotel.quoality.com/delhi/hosteller"
+    "demo": "https://www.hotel-dev.quoality.com/delhi/the-hosteller-delhi"
   },
   {
     "id": 4,
     "name": "Quoality Website",
-    "image": "https://i.ibb.co/T23V2mB/Quoality.jpg",
+    "image": [
+      "https://i.ibb.co/9V2dsnC/qw1.png",
+      "https://i.ibb.co/9bTh31N/qw2.png",
+      "https://i.ibb.co/YNpWf3J/qw3.png",
+      "https://i.ibb.co/kGR2RqQ/qw4.png",
+      "https://i.ibb.co/rvhSLFL/qw5.png",
+      "https://i.ibb.co/qxKZGd7/qw6.png",
+      "https://i.ibb.co/dfP4CHK/qw7.png",
+      "https://i.ibb.co/NYgW1d9/qw8.png",
+      "https://i.ibb.co/tsfVNy5/qw9.png"
+    ],
     "description": "E-commerce platform for ordering auxiliary service in a hostel and CMS is on strapi",
     "tags": ["next", "tailwind", "material-ui", "strapi", "sass", "rest-api"],
     "role": "Developed the whole website single-handedly",
-    "demo": "https://quoality.com"
+    "demo": "https://www.quoality.com/"
   },
   {
     "id": 5,
     "name": "E-Vaccine-App",
-    "image": "https://i.ibb.co/G2Q0C1q/jj-Vaccine-guillame-Br-1285072572-770x533-1.jpg",
+    "image": [
+      "https://i.ibb.co/G2Q0C1q/jj-Vaccine-guillame-Br-1285072572-770x533-1.jpg"
+    ],
     "description": "Developed E-Vaccine tracker like Aarogya Setu",
     "role": "Developed the whole user facing app from scratch to production ready",
     "tags": ["react", "ionic-react", "firebase", "redux", "rest-api"]
@@ -70,7 +115,17 @@
   {
     "id": 6,
     "name": "TheHosteller",
-    "image": "https://i.ibb.co/2yQSk5B/hosteller.png",
+    "image": [
+      "https://i.ibb.co/syCmd5X/th1.png",
+      "https://i.ibb.co/6ZKdst1/th2.png",
+      "https://i.ibb.co/mXvvx19/th3.png",
+      "https://i.ibb.co/QXR9N82/th4.png",
+      "https://i.ibb.co/QXR9N82/th4.png",
+      "https://i.ibb.co/1fZxFWk/th5.png",
+      "https://i.ibb.co/CVt0CC4/th6.png",
+      "https://i.ibb.co/RCT7mq4/th8.png",
+      "https://i.ibb.co/Y8786Wp/th9.png"
+    ],
     "description": "The Hosteller, a chain of backpacker hostels with 18+ hostels across India currently, is the perfect pit-stop for global as well as local travellers to relax, rejuvenate and experience India’s rich heritage while not worrying about a clean, safe and smart place to stay.",
     "role": "Developed the whole website from scratch to production ready",
     "tags": [
@@ -87,7 +142,7 @@
   {
     "id": 7,
     "name": "TheHosteller-Dashboard",
-    "image": "https://i.ibb.co/2yQSk5B/hosteller.png",
+    "image": ["https://i.ibb.co/FKwSCs4/hd.png"],
     "description": "The Hosteller, a chain of backpacker hostels with 18+ hostels across India currently, is the perfect pit-stop for global as well as local travellers to relax, rejuvenate and experience India’s rich heritage while not worrying about a clean, safe and smart place to stay.",
     "role": "Developing their CMS and Admin Panel",
     "tags": [
