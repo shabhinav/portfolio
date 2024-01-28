@@ -10,9 +10,9 @@ const AboutPage = () => {
       <br />
 
       <h3>
-        My skillsets include languages like JavaScript ,CSS3, HTML5, SCSS/SASS
-        together with frameworks like React.js, Redux,
-        Bootstrap,Next.js,Apollo-Graphql,Webpack,Firebase,Tailwind.
+        My skillsets include languages like JavaScript,TypeScript ,CSS3, HTML5, SCSS/SASS
+        together with frameworks like React.js,Next.js,React-Native Redux,
+        Bootstrap,,Apollo-Graphql,Webpack?RollUp,Firebase,Tailwind,StoryBook.
       </h3>
       <br />
 
@@ -24,8 +24,8 @@ const AboutPage = () => {
       <br />
 
       <h3>
-        I'm working as a lead Frontend Developer in Quoality and worked as a
-        Freelancer Frontend Developer at Signoz.
+        I'm working as a Frontend Developer in Trademo and worked as a
+        Lead Frontend Developer at Quoality.
       </h3>
 
       <h3>
