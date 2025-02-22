@@ -9,7 +9,7 @@ const AboutPage = () => {
       <br />
 
       <h3>
-        I've worked as a Frontend Developer at Trademo and was a Lead Frontend Developer at Quoality before that. I love creating awesome user interfaces that make websites fun to use.
+        Currently a Senior Frontend Developer at Birdeye, I was previously a Senior Frontend Developer at Trademo and a Frontend Developer at Quoality. I’m passionate about building intuitive and engaging user interfaces that enhance web experiences.
       </h3>
       <br />
 
