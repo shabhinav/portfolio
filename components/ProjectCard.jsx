@@ -29,12 +29,12 @@ const ProjectCard = ({ project }) => {
           <strong className='font-base'>Description:-</strong>
           {project.description}
         </p>
-        <div>
+        {project.role && <div>
           <p>
             <strong className='font-base'>Role:-</strong>
             {project.role}
           </p>
-        </div>
+        </div>}
         <div className={styles.tags}>
           {project.tags.map((tag) => (
             <span key={tag} className={tag}>

@@ -2,7 +2,7 @@ const AboutPage = () => {
   return (
     <>
       <h3>
-        Hey there! I'm Abhinav, a Frontend Web Developer who's also into becoming a Full Stack Developer.I really enjoy working with JavaScript and its cool frameworks like React.js, React Native and Next.js.
+        Hey there! I'm Abhinav, a Senior Frontend Web Developer who's also into a Full Stack Developer.I really enjoy working with JavaScript, Rust and its cool frameworks like React.js, React Native and Next.js.
       </h3>
       <br />
       <h3>I'm good at languages like JavaScript, TypeScript, CSS3, and HTML5. I use tools like Redux, Bootstrap, Apollo-Graphql, and Firebase to make websites look and work great. I'm also familiar with Webpack and RollUp, which help make the development process smoother.</h3>
